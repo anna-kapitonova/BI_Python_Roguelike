@@ -1,2 +1,2 @@
 # BI_Python_Roguelike
-The version of snake game with bioinformatics plot
+A version of snake game with bioinformatics plot
